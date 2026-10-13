@@ -20,7 +20,8 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
 ---
 
 ```bash
-$ cat about.txt
+┌──(akash㉿kali)-[~]
+└─$ cat about.txt
 
 [+] Cybersecurity student passionate about ethical hacking
 [+] Exploring CTF challenges and security labs
