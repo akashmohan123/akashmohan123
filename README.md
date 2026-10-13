@@ -7,7 +7,7 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub;Akash+Mohan+%7C+Cybersecurity;CTF+Player+%7C+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+whoami;Akash+Mohan;%3E+Cybersecurity+Student;%3E+CTF+Player" alt="Typing SVG" />
 </p>
 
 
