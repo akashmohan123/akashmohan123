@@ -7,8 +7,9 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Breaking+things+to+understand+them;Learning+Cybersecurity+one+lab+at+a+time;Capture+The+Flag+%7C+Learn+%7C+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub;Akash+Mohan+%7C+Cybersecurity;CTF+Player+%7C+Security+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=black" />
