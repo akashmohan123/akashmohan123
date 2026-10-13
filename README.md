@@ -30,11 +30,11 @@ $ cat about.txt
 [+] Building hands-on projects and documenting my journey
 ```
 
-- 🔐 Interested in penetration testing and vulnerability research
-- 🕵️ Exploring digital forensics, OSINT, and web security
-- 🐧 Working with Kali Linux and security tools
-- 🧩 Learning by solving CTF challenges and building labs
-- 🎯 Goal: become a skilled cybersecurity professional
+- Interested in penetration testing and vulnerability research
+- Exploring digital forensics, OSINT, and web security
+- Working with Kali Linux and security tools
+- Learning by solving CTF challenges and building labs
+- Goal: become a skilled cybersecurity professional
 
 ## `$ cat skills.txt`
 
@@ -67,7 +67,7 @@ $ cat about.txt
 
 ## `$ ls ./projects`
 
-### 🔥 Featured Work
+### Featured Work
 
 - **[WiCyS x Ex0rcists CTF Walkthrough](https://github.com/akashmohan123/WiCyS-x-Ex0rcists-challenge-walkthrough)**  
   Notes and walkthrough for a cybersecurity challenge.
