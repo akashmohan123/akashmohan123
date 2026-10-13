@@ -19,8 +19,6 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
 
 ---
 
-## `whoami` - About Me
-
 ```bash
 $ cat about.txt
 
