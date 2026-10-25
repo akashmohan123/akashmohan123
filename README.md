@@ -34,7 +34,7 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
 - Exploring digital forensics, OSINT, and web security
 - Working with Kali Linux and security tools
 - Learning by solving CTF challenges and building labs
-- Goal: become a skilled cybersecurity professional
+- Goal is to become a skilled cybersecurity professional
 
 ## `$ cat skills.txt`
 
@@ -62,20 +62,6 @@ Cybersecurity Student | CTF Player | Security Researcher in Training
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-*Tools shown here are part of my cybersecurity learning toolkit; practical experience varies by tool.*
-
-## `$ ls ./projects`
-
-### Featured Work
-
-- **[WiCyS x Ex0rcists CTF Walkthrough](https://github.com/akashmohan123/WiCyS-x-Ex0rcists-challenge-walkthrough)**  
-  Notes and walkthrough for a cybersecurity challenge.
-
-- **[More projects on GitHub](https://github.com/akashmohan123?tab=repositories)**  
-  Explore my repositories, experiments, labs, and learning projects.
-
-> I believe in documenting what I learn, understanding the why behind every vulnerability, and improving one challenge at a time.
 
 ## `$ git stats`
 
